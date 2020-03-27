@@ -1,0 +1,28 @@
+* {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+
+header, footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color : #A9A9A9;
+    text-align: right;
+}
+
+body {
+    padding-top : 100px;
+    padding-left: 20%;
+    padding-right: 20%;
+    }
+
+h1 {
+    font-size : 2em;
+}
+
+p {
+    letter-spacing: 1px;
+    text-align: justify;
+    color: black;
+    display: inline-block;
+    font-size: 1.1em;
+}
